@@ -1,2 +1,4 @@
 # hello-world
-my new hello world example
+i love to write code 
+i love golang bacause it's the best 
+programing language
